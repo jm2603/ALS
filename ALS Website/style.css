@@ -62,6 +62,7 @@ main
   background-position: center;
   background-color: #efece5;
   min-height: 60vw;
+  max-height: 60vw;
   display: block
   padding: 40vw 60vw 70vw; /* ✅ 하단 여백 100px */
   margin: 0 auto;
