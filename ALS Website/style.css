@@ -56,19 +56,17 @@ nav a:hover {
 
 main 
 {
+  background-image: url("images/alslogo.jpg");
+  background-size: auto;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #efece5;
+  min-height: 60vw;
   display: block
   padding: 40vw 60vw 70vw; /* ✅ 하단 여백 100px */
-  width: 50vw;
-  max-width: 50vw;
-  height: 50vw;
   margin: 0 auto;
   position: relative;
 font-size: 10vw;
-  background-color: #efece5;
-  background-image: url("images/alslogo.jpg");
-  background-repeat: no-repeat;
-  background-size: auto;
-  background-position: center;
   z-index: 1;
 }
 
