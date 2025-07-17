@@ -106,7 +106,7 @@ footer {
 }
 
 /* 반응형 스타일 */
-@media (max-width: 768px) {
+@media (max-width: 60vw) {
   nav {
     top: 20px;
     left: 3vw;
