@@ -61,10 +61,11 @@ main
   height: 10%;
   margin: auto;
   position: relative;
-font-size: 0.4rem;
+font-size: 9rem;
+  background-color: #efece5;
   background-image: url("images/alslogo.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   min-height: 600px;
   z-index: 1;
