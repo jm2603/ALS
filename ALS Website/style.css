@@ -58,9 +58,9 @@ main
 {
   display: block
   padding: 40vw 60vw 70vw; /* ✅ 하단 여백 100px */
-  width: 500px;
-  max-width: 500px;
-  height: 500px;
+  width: 50vw;
+  max-width: 50vw;
+  height: 50vw;
   margin: 0 auto;
   position: relative;
 font-size: 10vw;
@@ -106,7 +106,7 @@ footer {
 }
 
 /* 반응형 스타일 */
-@media (max-width: 60vw) {
+@media (max-width: 50vw) {
   nav {
     top: 20px;
     left: 3vw;
